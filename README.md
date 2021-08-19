@@ -1,4 +1,4 @@
-# Microsoft Graph Training Module - Build Office Add-ins with Microsoft Graph on Azure App Service
+# Microsoft Graph Training Module - Build Office Add-ins with Microsoft Graph & code is customized to run on Azure App Service
 
 This module will introduce you to working with Microsoft Graph to access data in Office 365 by building an Office add-in.This code sample is modified to run on Azure App Service.
 
